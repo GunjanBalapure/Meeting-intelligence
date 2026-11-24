@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: meeting-intelligence
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
